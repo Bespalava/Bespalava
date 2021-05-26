@@ -30,6 +30,7 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 [<img align="left" alt="Bespalava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >][linkedin]
 [<img align="left" alt="Bespalava | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >][instagram]
 [<img align="left" alt="Bespalava | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" >][telegram]
+[<img align="left" alt="Bespalava | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" >][facebook]
 [<img align="left" alt="Bespalava | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" >][youtube]
 <br />
 <br />
@@ -45,6 +46,7 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 [linkedin]: https://www.linkedin.com/in/julia-bespalava/
 [instagram]: https://www.instagram.com/ybespalava/
 [telegram]: https://t.me/JB22094
+[facebook]: https://www.facebook.com/JuliBespalova
 [youtube]: https://www.youtube.com/channel/UCw66Krmg62l71Ht6CS---mg
 <!---
 Bespalava/Bespalava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
