@@ -37,12 +37,9 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 <details>
   <summary>:zap: Statistics: </summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bespalava&show_icons=true" />
-  <br />
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bespalava&layout=compact" />
  </details>
-<br />
 
-  
 [gmail]: https://ybespalava@gmail.com
 [linkedin]: https://www.linkedin.com/in/julia-bespalava/
 [instagram]: https://www.linkedin.com/in/julia-bespalava/
