@@ -1,4 +1,4 @@
-## Hi, I’m Julie 👋 
+### Hi there, I’m Julie 👋 
 
 #### Front-End developer | [CV]().
 
@@ -10,25 +10,46 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 - I have completed a course in [Front-End | JavaScript](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk)
 - I’m currently learning [Node.js Course RS School](https://community-z.com/events/nodejs-rss-2021q1) 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
-![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
-![Webpack](https://img.shields.io/badge/-Webpack-0D1117?style=for-the-badge&logo=Webpack)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
+### Languages and Tools:
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<br />
 
 #### Some projects:
+- text here
 - [*more>>*]()
 
-- 📫 How to reach me
+###  How to reach me:
+[<img align="left" alt="Bespalava | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" >][gmail]
+[<img align="left" alt="Bespalava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >][linkedin]
+[<img align="left" alt="Bespalava | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >][instagram]
+[<img align="left" alt="Bespalava | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" >][telegram]
+[<img align="left" alt="Bespalava | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" >][youtube]
+<br />
+<br />
+<v>![](https://komarev.com/ghpvc/?username=bespalava)</v>
+<br />
+<!---<details>--->
+<!---<sum>:zap: Statistics: </sum>--->
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bespalava&show_icons=true" />
+<!--- <br />--->
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bespalava&layout=compact" />
+<!---<details>--->
+<br />
+<br />
 
-![bespalava](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Telegram)
-![Instagram](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Instagram)
-![linkedin](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Linkedin)
-![Gmail](https://img.shields.io/badge/-ybespalava@gmail.com-0D1117?style=for-the-badge&logo=Gmail)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bespalava&show_icons=true)
-
+  
+[gmail]: https://ybespalava@gmail.com
+[linkedin]: https://www.linkedin.com/in/julia-bespalava/
+[instagram]: https://www.linkedin.com/in/julia-bespalava/
+[telegram]: https://www.linkedin.com/in/julia-bespalava/
+[youtube]: https://www.linkedin.com/in/julia-bespalava/
 <!---
 Bespalava/Bespalava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
