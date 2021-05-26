@@ -34,15 +34,13 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 <br />
 <v>![](https://komarev.com/ghpvc/?username=bespalava)</v>
 <br />
-<!---<details>--->
-<!---<sum>:zap: Statistics: </sum>--->
+<details>
+  <summary>:zap: Statistics: </summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bespalava&show_icons=true" />
-<!--- <br />--->
+  <br />
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bespalava&layout=compact" />
-<!---<details>--->
+ </details>
 <br />
-<br />
-
 
   
 [gmail]: https://ybespalava@gmail.com
