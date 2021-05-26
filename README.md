@@ -27,6 +27,7 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 ![linkedin](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=Linkedin)
 ![Gmail](https://img.shields.io/badge/-ybespalava@gmail.com-0D1117?style=for-the-badge&logo=Gmail)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bespalava&show_icons=true)
 
 <!---
 Bespalava/Bespalava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
