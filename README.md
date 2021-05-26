@@ -21,7 +21,8 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 <br />
 
 #### Some projects:
-- text here
+- some text
+- some text
 - [*more>>*]()
 
 ###  How to reach me:
@@ -40,11 +41,11 @@ Well motivated to change direction and ready to work as a Front-end developer. I
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bespalava&layout=compact" />
  </details>
 
-[gmail]: https://ybespalava@gmail.com
+[gmail]: mailto:ybespalava@gmail.com
 [linkedin]: https://www.linkedin.com/in/julia-bespalava/
-[instagram]: https://www.linkedin.com/in/julia-bespalava/
-[telegram]: https://www.linkedin.com/in/julia-bespalava/
-[youtube]: https://www.linkedin.com/in/julia-bespalava/
+[instagram]: https://www.instagram.com/ybespalava/
+[telegram]: https://t.me/JB22094
+[youtube]: https://www.youtube.com/channel/UCw66Krmg62l71Ht6CS---mg
 <!---
 Bespalava/Bespalava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
