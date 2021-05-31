@@ -10,7 +10,7 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 - I have completed course on [Front-End | JavaScript](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk)
 - I’m currently learning [Node.js Course RS School](https://community-z.com/events/nodejs-rss-2021q1) 
 
-### Languages and Tools:
+### Languages, technologies and tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -18,6 +18,7 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br />
 
 #### Some projects:
