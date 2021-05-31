@@ -7,7 +7,7 @@ I am 1C Developer (business application developer and enterprise automation spec
 Well motivated to change direction and ready to work as a Front-end developer. I am looking for opportunities for a full-time job in web development.
 
 
-- I have completed a course in [Front-End | JavaScript](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk)
+- I have completed course on [Front-End | JavaScript](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk)
 - I’m currently learning [Node.js Course RS School](https://community-z.com/events/nodejs-rss-2021q1) 
 
 ### Languages and Tools:
