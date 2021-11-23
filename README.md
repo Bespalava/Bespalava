@@ -8,7 +8,7 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 
 
 - I have completed course on [Front-End | JavaScript](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk)
-- I’m currently learning [Node.js Course RS School](https://community-z.com/events/nodejs-rss-2021q1) 
+- I’m currently learning [Node.js Course RS School](https://community-z.com/events/nodejs-rss-2021q4) 
 
 ### Languages, technologies and tools:
 
