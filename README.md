@@ -22,8 +22,8 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 <br />
 
 #### Some projects:
-- some text
-- some text
+- project react
+- project js
 - [*more>>*]()
 
 ###  How to reach me:
