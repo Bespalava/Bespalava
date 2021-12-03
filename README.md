@@ -3,7 +3,7 @@
 #### Front-End developer | [online CV](https://bespalava.github.io/) | [download CV pdf]()
 
 
-I am 1C Developer (business application developer and enterprise automation specialist) with over 8 years of experience specializing in software development for trade, warehouse, and accounting systems. I have analytical skills and strong attention to detail. Also known as a good team player.
+I am Software Engineer (business application developer and enterprise automation specialist) with over 8 years of experience specializing in software development for trade, warehouse, and accounting systems. I have analytical skills and strong attention to detail. Also known as a good team player.
 Well motivated to change direction and ready to work as a Front-end developer. I am looking for opportunities for a full-time job in web development.
 
 
@@ -22,8 +22,8 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 <br />
 
 #### Some projects:
-- project react
-- project js
+- [project react]()
+- [project js]()
 - [*more>>*]()
 
 ###  How to reach me:
