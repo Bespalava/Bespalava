@@ -23,7 +23,8 @@ Well motivated to change direction and ready to work as a Front-end developer. I
 
 #### Some projects:
 - [project react]()
-- [project js]()
+- [project js axit](https://bespalava.github.io/AXIT/)
+- [project js louvre](https://bespalava.github.io/museum/)
 - [*more>>*]()
 
 ###  How to reach me:
