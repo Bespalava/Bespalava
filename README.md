@@ -1,6 +1,6 @@
 ### Hi there, I’m Julie 👋 
 
-#### Front-End developer | [online CV](https://bespalava.github.io/) | [download CV pdf]()
+#### Front-End developer | [online CV](https://bespalava.github.io/) | [CV pdf](https://drive.google.com/file/d/1DaDLojVaWef4wjIaoIHySj9_3p5b7sog/view?usp=sharing)
 
 
 I am Software Engineer (business application developer and enterprise automation specialist) with over 8 years of experience specializing in software development for trade, warehouse, and accounting systems. I have analytical skills and strong attention to detail. Also known as a good team player.
