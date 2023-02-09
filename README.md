@@ -6,8 +6,6 @@
 I am Software Engineer (business application developer and enterprise automation specialist) with over 8 years of experience specializing in software development for trade, warehouse, and accounting systems. I have analytical skills and strong attention to detail. Also known as a good team player.
 Well motivated to change direction and ready to work as a Front-end developer. I am looking for opportunities for a full-time job in web development.
 
-
-- I have completed course on [Front-End | JavaScript](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk)
 - I’m currently learning [Node.js Course RS School](https://community-z.com/events/nodejs-rss-2021q4) 
 
 ### Languages, technologies and tools:
