@@ -3,10 +3,8 @@
 #### Front-End developer | [online CV](https://bespalava.github.io/) | [CV pdf](https://drive.google.com/file/d/1DaDLojVaWef4wjIaoIHySj9_3p5b7sog/view?usp=sharing)
 
 
-I am Software Engineer (business application developer and enterprise automation specialist) with over 8 years of experience specializing in software development for trade, warehouse, and accounting systems. I have analytical skills and strong attention to detail. Also known as a good team player.
-Well motivated to change direction and ready to work as a Front-end developer. I am looking for opportunities for a full-time job in web development.
-
-- I’m currently learning [Node.js Course RS School](https://community-z.com/events/nodejs-rss-2021q4) 
+I am Software Engineer (business application developer and enterprise automation specialist) with over 9 years of experience specializing in software development for trade, warehouse, and accounting systems. I have analytical skills and strong attention to detail. Also known as a good team player.
+Well motivated and looking for opportunities for a full-time job in web development.
 
 ### Languages, technologies and tools:
 
