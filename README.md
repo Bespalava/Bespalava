@@ -2,10 +2,6 @@
 
 #### Front-End developer | [online CV](https://bespalava.github.io/) | [CV pdf](https://drive.google.com/file/d/1DaDLojVaWef4wjIaoIHySj9_3p5b7sog/view?usp=sharing)
 
-
-I am Software Engineer (business application developer and enterprise automation specialist) with over 9 years of experience specializing in software development for trade, warehouse, and accounting systems. I have analytical skills and strong attention to detail. Also known as a good team player.
-Well motivated and looking for opportunities for a full-time job in web development.
-
 ### Languages, technologies and tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -19,8 +15,7 @@ Well motivated and looking for opportunities for a full-time job in web developm
 
 #### Some projects:
 - [project react]()
-- [project js axit](https://bespalava.github.io/AXIT/)
-- [project js louvre](https://bespalava.github.io/museum/)
+- [project js axit]()
 - [*more>>*]()
 
 ###  How to reach me:
