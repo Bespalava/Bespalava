@@ -1,6 +1,6 @@
 ### Hi there, I’m Julie 👋 
 
-#### Front-End developer | [online CV](https://bespalava.github.io/) | [CV pdf](https://drive.google.com/file/d/1DaDLojVaWef4wjIaoIHySj9_3p5b7sog/view?usp=sharing)
+#### [online CV](https://bespalava.github.io/) | [CV pdf](https://drive.google.com/file/d/1DaDLojVaWef4wjIaoIHySj9_3p5b7sog/view?usp=sharing)
 
 ### Languages, technologies and tools:
 
